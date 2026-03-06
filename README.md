@@ -1,81 +1,142 @@
-# Hi, I'm Kevin Ryon, MSBA! 👋
+# Kevin S. Ryon
 
-**Enterprise Strategy & Digital Transformation | ERP · Applied AI · Tech-Enabled Services**
+**Enterprise Strategy & Digital Transformation**  
+ERP · Applied AI · Tech-Enabled Services
 
-📍 Fort Worth, TX | 🌐 [knollingservices.com](https://www.knollingservices.com) | 💼 [LinkedIn](https://www.linkedin.com/in/kevinryon)
-
----
-
-### 🔭 I'm currently working on:
-- **Vero Price Match** — a consumer PWA for real-time retail price matching with barcode scanning, geolocation-based store detection, and QR code proof generation
-- **Knolling Services** — a SaaS platform for oil & gas asset management and digitization strategy
-
-### 🌱 I'm currently learning:
-- Full-stack development with Next.js, Supabase, Stripe, and Better Auth
-- Generative AI integration and applied machine learning for business optimization
-
-### 👯 I'm looking to collaborate on:
-- AI-powered enterprise tools, ERP implementations, digital transformation projects, and SaaS applications
-
-### 💬 Ask me about:
-- Enterprise strategy, operating model design, digital transformation, AI/GenAI business development, ERP, and applied analytics
-
-### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/kevinryon) | ryonkevin@gmail.com
-
-### ⚡ Fun fact:
-- As the first BD hire at an AI startup, I built the enterprise client pipeline from scratch — landing **Amazon and Panasonic** as clients
+📍 Fort Worth, TX  
+🌐 https://knollingservices.com  
+💼 https://linkedin.com/in/kevinryon
 
 ---
 
-## 🏢 Experience Highlights:
+## 👋 About Me
+
+Enterprise strategy and digital transformation leader focused on building practical AI, automation, and data-driven operating models.
+
+I work at the intersection of **technology, operations, and business strategy** — helping organizations modernize systems, implement intelligent workflows, and scale revenue through tech-enabled services.
+
+---
+
+## 🚀 Current Projects
+
+**Vero Price Match**  
+Consumer PWA enabling real-time retail price matching using barcode scanning, geolocation store detection, and QR code proof verification.
+
+**Knolling Services**  
+SaaS platform focused on oil & gas asset management, operational digitization, and data-driven infrastructure strategy.
+
+---
+
+## 🌱 Currently Learning
+
+- Full-stack development with **Next.js, Supabase, Stripe, and Better Auth**
+- Applied **Generative AI and ML workflows**
+- Building scalable **AI-enabled SaaS applications**
+
+---
+
+## 🤝 Open to Collaborate On
+
+- AI-powered enterprise tools  
+- ERP implementations & digital transformation initiatives  
+- SaaS platforms and operational automation systems  
+- Data-driven operating models and analytics frameworks
+
+---
+
+## 💬 Ask Me About
+
+- Enterprise strategy & operating model design  
+- AI / GenAI business implementation  
+- ERP and process automation  
+- Data analytics & decision intelligence  
+- Technology-enabled revenue models
+
+---
+
+## 🏢 Experience Highlights
 
 | Company | Role | Focus |
-|---|---|---|
-| Silverside AI | Business Development | Enterprise AI — Amazon, Panasonic |
-| Robinson & Co., LLC | SVP, Operations | Investment Banking, RPA, Data Governance |
+|------|------|------|
+| Silverside AI | Business Development | Enterprise AI – Amazon, Panasonic |
+| Robinson & Co. Investment Banking | SVP, Operations | RPA, Data Governance, Capital Markets |
 | Western Commerce Group M&A | SVP, Enterprise Strategy | M&A Advisory, Capital Solutions |
-| Photon InfoTech (KFC, McKesson) | Senior Strategy Consultant | AI Transformation, CX Modernization |
+| Photon InfoTech | Senior Strategy Consultant | AI Transformation, CX Modernization |
 | RGP / Toyota TMNA | Senior Product & Innovation Strategy Manager | Connected Vehicle Technology |
-| Parker, LLP | Director of Operations / Controller | Legal Ops, FinTech, Digital Solutions |
+| Parker LLP | Director of Operations / Controller | FinTech, Legal Ops, Digital Systems |
 
 ---
 
-## 🛠️ Technologies & Tools:
+## 🛠 Technologies & Tools
 
-**Languages & Analytics:** Python · R · SQL · JavaScript · HTML  
-**Platforms & Tools:** Next.js · Supabase · Vercel · Stripe · Tableau · Power BI · Snowflake · AWS · Signavio · Google AI Studio  
-**Business Tools:** Microsoft Excel (Expert) · PowerPoint (Expert) · Word (Expert)  
+**Languages & Analytics**
 
-**Areas of Expertise:**
-- Digital Transformation & Operating Model Design
-- AI/GenAI Strategy & Implementation
-- ERP & Process Automation
-- GTM, Revenue Acceleration & P&L Modeling
-- Data Analytics & KPI/OKR Frameworks
+Python • R • SQL • JavaScript • HTML
+
+**Platforms**
+
+Next.js • Supabase • Vercel • Stripe • AWS • Snowflake
+
+**Analytics**
+
+Tableau • Power BI
+
+**Business Tools**
+
+Excel (Expert) • PowerPoint (Expert) • Word (Expert)
+
+---
+
+## 📊 Areas of Expertise
+
+- Digital Transformation & Operating Model Design  
+- AI / GenAI Strategy & Implementation  
+- ERP & Process Automation  
+- Go-to-Market Strategy & Revenue Acceleration  
+- Data Analytics & KPI / OKR Frameworks  
 - FinTech · Cloud Consulting · M&A Advisory
 
 ---
 
-## 🎓 Education:
+## 🚀 Notable Projects
 
-- **MS, Business Analytics** — Pepperdine University, Graziadio School of Business
-- **BS, Geology** (Minors: Technology Management & Business Finance) — Texas Christian University (TCU)
+**Vero Price Match**  
+Consumer PWA for real-time retail price matching.
+
+**CAMOS**  
+Commodity asset management & accounting software developed alongside Hartz Capital & JPMorgan.
+
+**Toyota TMNA**  
+Early concept development for Adaptive Drive Mode and Cabin Awareness systems.
+
+**Knolling Services**  
+Co-founded oil & gas SaaS platform for infrastructure asset management.
 
 ---
 
-## 🚀 Projects:
+## 🎓 Education
 
-**[Vero Price Match](https://veropricematch.com)** — Consumer PWA for real-time retail price matching  
-**CAMOS** — Co-created commodity asset management & accounting software (Hartz Capital & JPMC)  
-**Toyota TMNA** — Co-developed early concepts for Adaptive Drive Mode & Cabin Awareness systems  
-**Knolling Services** — Co-Founded oil & gas SaaS asset management platform  
+**Pepperdine University**  
+MS — Business Analytics  
+Graziadio School of Business
+
+**Texas Christian University (TCU)**  
+BS — Geology  
+Minors: Technology Management & Business Finance
 
 ---
 
-## 🤝 Strategic Advisory & Board Engagement:
+## 🤝 Strategic Advisory
 
-- **Sirge.io** — E-commerce Platform
-- **Highwire Capital** — IP-backed M&A & AI Governance
-- **Christman & Associates** — Platform Optimization & AI Integration
-- **Knolling Energy Services** — Oil & Gas SaaS
+- Sirge.io — E-commerce Platform
+- Highwire Capital — IP-backed M&A & AI Governance
+- Christman & Associates — Platform Optimization & AI Integration
+- Knolling Energy Services — Oil & Gas SaaS
+
+---
+
+## 📫 Contact
+
+📧 ryonkevin@gmail.com  
+💼 https://linkedin.com/in/kevinryon  
+🌐 https://knollingservices.com
